@@ -1,0 +1,41 @@
+/contreact/node_modules
+/contreact/.env
+
+# Hardhat files
+/contreact/cache
+/contreact//artifacts
+
+# TypeChain files
+/contreact//typechain
+/contreact//typechain-types
+
+# solidity-coverage files
+/contreact//coverage
+/contreact//coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+/contreact/ignition/deployments/chain-31337
+
+# dependencies
+/web/node_modules
+/web/.pnp
+/web/.pnp.js
+/web/.idea
+
+# testing
+/web/coverage
+
+# production
+/web/build
+
+# misc
+/web/.DS_Store
+/web/.env.local
+/web/.env.development.local
+/web/.env.test.local
+/web/.env.production.local
+
+/web/npm-debug.log*
+/web/yarn-debug.log*
+/web/yarn-error.log*
+/web/.idea/
