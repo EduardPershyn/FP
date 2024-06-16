@@ -1,3 +1,4 @@
-let fpAddress = '0x9f0F6E4e6B8651CaA3497f643dF1455bEdCC7C1D';
+let fpAddress = '0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512';
+let tokenAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
 
-export { fpAddress };
+export { fpAddress, tokenAddress };
